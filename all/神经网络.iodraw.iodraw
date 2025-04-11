@@ -526,7 +526,7 @@
           <mxGeometry x="201.75" y="146" width="13.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="T4VMM_dwihSCItqdVRQ3-140" value="&lt;span style=&quot;font-family: &amp;quot;PingFang SC&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 6px;&quot;&gt;Φ&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="193.75" y="149" width="10" height="5" as="geometry" />
+          <mxGeometry x="193.75" y="149.5" width="10" height="5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
