@@ -183,9 +183,6 @@
             <mxPoint x="380" y="208" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4VMM_dwihSCItqdVRQ3-42" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="268" y="165" width="20" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
