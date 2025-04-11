@@ -243,7 +243,7 @@
             <mxPoint x="454" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4VMM_dwihSCItqdVRQ3-66" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;" edge="1" parent="1" source="T4VMM_dwihSCItqdVRQ3-1">
+        <mxCell id="T4VMM_dwihSCItqdVRQ3-66" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#1ba1e2;strokeColor=#006EAF;exitX=1;exitY=0.43;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="T4VMM_dwihSCItqdVRQ3-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="458" y="139.32" as="sourcePoint" />
             <mxPoint x="403" y="160" as="targetPoint" />
