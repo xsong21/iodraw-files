@@ -1,0 +1,113 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="nDnOBprOL7M9OV6uzfH2" name="第 1 页">
+    <mxGraphModel dx="1221" dy="725" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-18" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;" parent="1" vertex="1">
+          <mxGeometry x="90.35000000000002" y="180" width="77.31" height="58.63" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="160" width="399" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="170" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="170" width="10" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-7" value="" style="shape=link;html=1;width=12;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="140" y="170" as="sourcePoint" />
+            <mxPoint x="140" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="170" width="24" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="oDM64-0pHGTK4mN9UoAR-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gdrXRsewx1Q6e0aaDZAm-11" target="gdrXRsewx1Q6e0aaDZAm-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" parent="1" vertex="1">
+          <mxGeometry x="124" y="196" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-17" value="" style="endArrow=none;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" target="gdrXRsewx1Q6e0aaDZAm-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="240" as="sourcePoint" />
+            <mxPoint x="101" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="220" />
+              <mxPoint x="20" y="210" />
+              <mxPoint x="50" y="210" />
+              <mxPoint x="70" y="190" />
+              <mxPoint x="80" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-19" value="1、设计设备的电路，硬件实现" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="56.49999999999998" y="425" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-20" value="2、设计设备3d模型，外壳结构" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="56.5" y="522" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-21" value="" style="endArrow=classic;html=1;fillColor=#e51400;strokeColor=#B20000;" parent="1" target="gdrXRsewx1Q6e0aaDZAm-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="163" y="230" as="sourcePoint" />
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-22" value="罩子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="204" y="238.63" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-25" value="硬件和结构开发层面" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="53.5" y="400" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-26" value="" style="endArrow=none;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="185" as="sourcePoint" />
+            <mxPoint x="140" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-29" value="签子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="177.5" y="130" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-30" value="" style="endArrow=classic;html=1;fillColor=#e51400;strokeColor=#B20000;" parent="1" target="gdrXRsewx1Q6e0aaDZAm-29" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="150" as="sourcePoint" />
+            <mxPoint x="204" y="121.2618032786886" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-31" value="硬件功能：" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="53.5" y="620" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-32" value="1、联网功能，配网功能" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="58.5" y="645" width="140" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-33" value="2、连接服务器，使用mqtt(或其他)协议通信" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="58.5" y="667" width="250" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-34" value="3、烧烤签识别，数据上报" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="58.5" y="684.5" width="150" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-35" value="硬件选型 ......" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="75.5" y="453" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-36" value="使用3d打印机打印电路板外壳，以及各部分器件" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="75.5" y="547" width="270" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-37" value="传感器选型......" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="75.5" y="475" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-39" value="4、其他......" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="58.5" y="705" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-40" value="3、带完善......" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="56.5" y="577" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gdrXRsewx1Q6e0aaDZAm-41" value="PCB打板" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;fontFamily=Tahoma;" parent="1" vertex="1">
+          <mxGeometry x="75.5" y="496" width="55" height="11" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
