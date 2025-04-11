@@ -23,7 +23,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="T4VMM_dwihSCItqdVRQ3-5" value="Loss&amp;lt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T4VMM_dwihSCItqdVRQ3-5" value="Loss&amp;lt;&lt;h2 style=&quot;font-size: 20px; line-height: 32px; margin: 3px 0px; font-weight: 500; -webkit-text-stroke-color: rgb(51, 51, 51); font-family: &amp;quot;PingFang SC&amp;quot;, Arial, sans-serif; color: rgb(51, 51, 51); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;mark style=&quot;background-image: linear-gradient(to right, rgba(111, 75, 250, 0.12), rgba(111, 75, 250, 0.12)); background-position: 100% 100%; background-size: 100% 12px; background-repeat: no-repeat; background-attachment: scroll; background-origin: padding-box; background-clip: border-box; color: rgb(51, 51, 51); padding-bottom: 1px;&quot; class=&quot;flexible-marker flexible-marker-default&quot;&gt;ε&lt;/mark&gt;&lt;/h2&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="700" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T4VMM_dwihSCItqdVRQ3-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1.004;exitY=0.428;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="T4VMM_dwihSCItqdVRQ3-1" target="T4VMM_dwihSCItqdVRQ3-3">
