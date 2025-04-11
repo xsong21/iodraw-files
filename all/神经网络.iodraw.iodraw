@@ -205,13 +205,13 @@
           <mxGeometry x="388" y="250" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="T4VMM_dwihSCItqdVRQ3-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="320" y="111" width="3" height="3" as="geometry" />
+          <mxGeometry x="326" y="111" width="3" height="3" as="geometry" />
         </mxCell>
         <mxCell id="T4VMM_dwihSCItqdVRQ3-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="330" y="111" width="3" height="3" as="geometry" />
+          <mxGeometry x="336" y="111" width="3" height="3" as="geometry" />
         </mxCell>
         <mxCell id="T4VMM_dwihSCItqdVRQ3-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=none;fillColor=#1ba1e2;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="340" y="131" width="3" height="3" as="geometry" />
+          <mxGeometry x="344.5" y="111" width="3" height="3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
