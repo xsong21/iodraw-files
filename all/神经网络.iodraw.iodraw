@@ -13,10 +13,10 @@
         <mxCell id="T4VMM_dwihSCItqdVRQ3-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Loss=loss_main+loss_phsic+loss_reg&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="320" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T4VMM_dwihSCItqdVRQ3-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.468;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T4VMM_dwihSCItqdVRQ3-5" target="T4VMM_dwihSCItqdVRQ3-1">
+        <mxCell id="T4VMM_dwihSCItqdVRQ3-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T4VMM_dwihSCItqdVRQ3-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="770" as="sourcePoint" />
-            <mxPoint x="60" y="250" as="targetPoint" />
+            <mxPoint x="160" y="172" as="targetPoint" />
             <Array as="points">
               <mxPoint x="80" y="740" />
               <mxPoint x="80" y="172" />
