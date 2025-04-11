@@ -284,7 +284,7 @@
           <mxGeometry x="795" y="347.5" width="2" height="2" as="geometry" />
         </mxCell>
         <mxCell id="zKpYj0FBn3OZyrKJkUar-71" value="&lt;span style=&quot;color: rgb(26, 26, 26); font-family: &amp;quot;PingFang SC&amp;quot;, Arial, sans-serif; text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Φ&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="395" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="395" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
