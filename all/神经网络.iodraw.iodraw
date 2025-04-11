@@ -10,7 +10,7 @@
         <mxCell id="T4VMM_dwihSCItqdVRQ3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="360" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="T4VMM_dwihSCItqdVRQ3-3" value="Loss=loss_main+loss_phsic+loss_reg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="T4VMM_dwihSCItqdVRQ3-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Loss=loss_main+loss_phsic+loss_reg&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="320" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T4VMM_dwihSCItqdVRQ3-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="T4VMM_dwihSCItqdVRQ3-5" target="T4VMM_dwihSCItqdVRQ3-1">
