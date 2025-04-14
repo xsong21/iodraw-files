@@ -105,7 +105,7 @@
         </mxCell>
         <mxCell id="fg-4BSXvaFu0SxUy3CFW-27" value="数据传输" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fg-4BSXvaFu0SxUy3CFW-26">
           <mxGeometry x="-0.3531" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="13" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
