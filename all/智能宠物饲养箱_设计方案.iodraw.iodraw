@@ -29,7 +29,10 @@
           <mxGeometry x="600" y="630" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fg-4BSXvaFu0SxUy3CFW-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;光敏传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="250" width="110" height="50" as="geometry" />
+          <mxGeometry x="445" y="250" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fg-4BSXvaFu0SxUy3CFW-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;温湿度传感器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="250" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
