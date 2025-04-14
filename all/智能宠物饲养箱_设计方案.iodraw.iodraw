@@ -17,10 +17,10 @@
           <mxGeometry x="730" y="362" width="180" height="104" as="geometry" />
         </mxCell>
         <mxCell id="fg-4BSXvaFu0SxUy3CFW-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;换水泵&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="520" width="100" height="50" as="geometry" />
+          <mxGeometry x="410" y="480" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fg-4BSXvaFu0SxUy3CFW-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;LED灯&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="520" width="100" height="50" as="geometry" />
+          <mxGeometry x="660" y="480" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fg-4BSXvaFu0SxUy3CFW-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;排风扇&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="600" width="100" height="50" as="geometry" />
