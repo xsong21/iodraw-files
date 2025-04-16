@@ -14,7 +14,7 @@
           <mxGeometry x="527" y="300" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-4" value="是否连接成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="527" y="200" width="113" height="60" as="geometry" />
+          <mxGeometry x="527" y="200" width="103" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
