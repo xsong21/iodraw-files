@@ -8,10 +8,13 @@
           <mxGeometry x="547" y="80" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-2" value="连接WIFI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="542" y="150" width="85" height="30" as="geometry" />
+          <mxGeometry x="542" y="140" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-3" value="初始化各个传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="527" y="300" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fpGkvHe95a4q38xZX32R-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
