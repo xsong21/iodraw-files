@@ -82,12 +82,12 @@
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="595.3" y="407" as="sourcePoint" />
-            <mxPoint x="595.3" y="427" as="targetPoint" />
+            <mxPoint x="584.3" y="445" as="sourcePoint" />
+            <mxPoint x="584.3" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpGkvHe95a4q38xZX32R-28" value="更新传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="548" y="428" width="95" height="27" as="geometry" />
+        <mxCell id="fpGkvHe95a4q38xZX32R-28" value="监听本地服务请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="537" y="466" width="95" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
