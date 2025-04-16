@@ -17,7 +17,10 @@
           <mxGeometry x="533" y="200" width="103" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-5" value="配网" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="210" width="70" height="30" as="geometry" />
+          <mxGeometry x="680" y="215" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fpGkvHe95a4q38xZX32R-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="275" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
