@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-24" value="执行循环" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="529" y="383" width="120" height="60" as="geometry" />
+          <mxGeometry x="529" y="383" width="81" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
