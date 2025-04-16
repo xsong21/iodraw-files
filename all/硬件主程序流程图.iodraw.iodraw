@@ -77,7 +77,7 @@
             <mxPoint x="585.3" y="417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpGkvHe95a4q38xZX32R-26" value="读取传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fpGkvHe95a4q38xZX32R-26" value="更新传感器数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="538" y="420" width="95" height="27" as="geometry" />
         </mxCell>
       </root>
