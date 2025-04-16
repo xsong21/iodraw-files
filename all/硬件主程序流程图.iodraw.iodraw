@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fpGkvHe95a4q38xZX32R-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#4D4D4D;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="510" y="369" width="150" height="221" as="geometry" />
+          <mxGeometry x="510" y="369" width="150" height="231" as="geometry" />
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="547" y="30" width="75" height="30" as="geometry" />
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-32" value="上报数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534" y="550" width="103" height="27" as="geometry" />
+          <mxGeometry x="534" y="560" width="103" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-35" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 10px;&quot;&gt;循环体&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="576" y="347" width="50" height="30" as="geometry" />
@@ -130,6 +130,9 @@
           <mxGeometry x="0.1065" y="-1" relative="1" as="geometry">
             <mxPoint x="-1" y="25" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fpGkvHe95a4q38xZX32R-72" value="监听本地服务请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="544" y="489" width="103" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
