@@ -67,8 +67,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpGkvHe95a4q38xZX32R-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="fpGkvHe95a4q38xZX32R-19" value="初始化各个传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="390" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fpGkvHe95a4q38xZX32R-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="585" y="360" as="sourcePoint" />
+            <mxPoint x="585" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fpGkvHe95a4q38xZX32R-21" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fpGkvHe95a4q38xZX32R-20">
+          <mxGeometry x="-0.2797" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
