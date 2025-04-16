@@ -64,7 +64,7 @@
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-17" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fpGkvHe95a4q38xZX32R-16">
           <mxGeometry x="-0.2797" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-19" value="初始化各个传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -78,7 +78,7 @@
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-21" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fpGkvHe95a4q38xZX32R-20">
           <mxGeometry x="-0.2797" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
