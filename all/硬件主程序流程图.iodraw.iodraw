@@ -114,7 +114,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-72" value="监听本地服务请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534" y="518" width="103" height="27" as="geometry" />
+          <mxGeometry x="534" y="524" width="103" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fpGkvHe95a4q38xZX32R-26" target="fpGkvHe95a4q38xZX32R-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -130,8 +130,8 @@
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="584.93" y="500" as="sourcePoint" />
-            <mxPoint x="584.93" y="518" as="targetPoint" />
+            <mxPoint x="584.93" y="503" as="sourcePoint" />
+            <mxPoint x="584.93" y="521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
