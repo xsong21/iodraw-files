@@ -16,6 +16,9 @@
         <mxCell id="fpGkvHe95a4q38xZX32R-4" value="是否连接成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="533" y="200" width="103" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fpGkvHe95a4q38xZX32R-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
