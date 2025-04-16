@@ -11,7 +11,7 @@
           <mxGeometry x="547" y="130" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-3" value="初始化本地HTTP服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="533" y="270" width="103" height="30" as="geometry" />
+          <mxGeometry x="522" y="270" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-4" value="是否连接成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="533" y="180" width="103" height="60" as="geometry" />
