@@ -95,7 +95,7 @@
             <mxPoint x="584.3" y="513" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpGkvHe95a4q38xZX32R-30" value="上报数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fpGkvHe95a4q38xZX32R-30" value="监听本地服务请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="514" width="103" height="27" as="geometry" />
         </mxCell>
         <mxCell id="fpGkvHe95a4q38xZX32R-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -104,7 +104,7 @@
             <mxPoint x="584.3" y="561" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fpGkvHe95a4q38xZX32R-32" value="监听本地服务请求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fpGkvHe95a4q38xZX32R-32" value="上报数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="562" width="103" height="27" as="geometry" />
         </mxCell>
       </root>
