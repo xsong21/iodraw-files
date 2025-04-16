@@ -107,6 +107,9 @@
         <mxCell id="fpGkvHe95a4q38xZX32R-32" value="上报数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="562" width="103" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="fpGkvHe95a4q38xZX32R-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
