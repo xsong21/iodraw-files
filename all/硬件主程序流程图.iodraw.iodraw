@@ -107,8 +107,8 @@
         <mxCell id="fpGkvHe95a4q38xZX32R-32" value="上报数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="562" width="103" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="fpGkvHe95a4q38xZX32R-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="404" width="140" height="196" as="geometry" />
+        <mxCell id="fpGkvHe95a4q38xZX32R-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="404" width="150" height="196" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
