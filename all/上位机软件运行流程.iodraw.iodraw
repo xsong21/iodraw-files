@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ISWZkc0A5gPKhWudymVJ-12" value="添加硬件设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="548.5" y="413" width="90" height="30" as="geometry" />
+          <mxGeometry x="540" y="370" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
