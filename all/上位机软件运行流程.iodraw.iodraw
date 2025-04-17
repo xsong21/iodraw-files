@@ -83,6 +83,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ISWZkc0A5gPKhWudymVJ-9" value="重新登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ISWZkc0A5gPKhWudymVJ-8">
+          <mxGeometry x="0.0232" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
