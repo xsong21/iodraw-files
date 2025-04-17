@@ -97,7 +97,7 @@
             <mxPoint x="585" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ISWZkc0A5gPKhWudymVJ-12" value="添加硬件设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ISWZkc0A5gPKhWudymVJ-12" value="控制设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="370" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
