@@ -27,7 +27,7 @@
         </mxCell>
         <mxCell id="vPu4O9NSZNYroW9P-uHv-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vPu4O9NSZNYroW9P-uHv-7" vertex="1" connectable="0">
           <mxGeometry x="-0.4267" relative="1" as="geometry">
-            <mxPoint x="5" y="1" as="offset" />
+            <mxPoint x="4" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vPu4O9NSZNYroW9P-uHv-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vPu4O9NSZNYroW9P-uHv-5" target="vPu4O9NSZNYroW9P-uHv-11" edge="1">
@@ -51,7 +51,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ISWZkc0A5gPKhWudymVJ-1" value="登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="210" width="80" height="30" as="geometry" />
+          <mxGeometry x="545" y="220" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
