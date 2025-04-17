@@ -94,8 +94,11 @@
         <mxCell id="ISWZkc0A5gPKhWudymVJ-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ISWZkc0A5gPKhWudymVJ-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="410" as="sourcePoint" />
-            <mxPoint x="690" y="360" as="targetPoint" />
+            <mxPoint x="585" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ISWZkc0A5gPKhWudymVJ-12" value="添加硬件设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="360" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
