@@ -62,10 +62,15 @@
         <mxCell id="ISWZkc0A5gPKhWudymVJ-4" value="账号密码&lt;div&gt;是否正确&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="220" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ISWZkc0A5gPKhWudymVJ-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ISWZkc0A5gPKhWudymVJ-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="360" as="sourcePoint" />
-            <mxPoint x="660" y="310" as="targetPoint" />
+            <mxPoint x="584.66" y="280" as="sourcePoint" />
+            <mxPoint x="584.6599999999997" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ISWZkc0A5gPKhWudymVJ-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;是&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ISWZkc0A5gPKhWudymVJ-6">
+          <mxGeometry x="-0.4267" relative="1" as="geometry">
+            <mxPoint x="4" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
