@@ -83,7 +83,7 @@
             <mxPoint x="830" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WR9FdsIW2vA9P4RHzK8-44" value="I2C通信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_WR9FdsIW2vA9P4RHzK8-43" vertex="1" connectable="0">
+        <mxCell id="_WR9FdsIW2vA9P4RHzK8-44" value="单总线通信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_WR9FdsIW2vA9P4RHzK8-43" vertex="1" connectable="0">
           <mxGeometry x="-0.2145" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
