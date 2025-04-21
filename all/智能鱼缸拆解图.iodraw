@@ -44,7 +44,7 @@
           <mxGeometry x="728.37" y="308.14" width="43" height="43" as="geometry" />
         </mxCell>
         <mxCell id="2X8kcNeQpMqDYxCgBVjB-20" value="加热器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="773.49" y="363" width="50.51" height="25" as="geometry" />
+          <mxGeometry x="771.37" y="315.5" width="50.51" height="25" as="geometry" />
         </mxCell>
         <mxCell id="2X8kcNeQpMqDYxCgBVjB-22" value="换水泵" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="773.49" y="410.61" width="50.51" height="25" as="geometry" />
@@ -77,12 +77,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="375" as="sourcePoint" />
             <mxPoint x="720" y="375.33" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2X8kcNeQpMqDYxCgBVjB-29" value="" style="endArrow=oval;html=1;rounded=0;startArrow=oval;startFill=1;endFill=1;strokeWidth=2;strokeColor=#333333;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="632" y="418" as="sourcePoint" />
-            <mxPoint x="720" y="417.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2X8kcNeQpMqDYxCgBVjB-30" value="" style="endArrow=baseDash;html=1;rounded=0;startArrow=halfCircle;startFill=0;endFill=0;strokeWidth=2;strokeColor=#333333;" edge="1" parent="1">
