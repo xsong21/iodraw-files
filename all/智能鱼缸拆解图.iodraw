@@ -11,7 +11,7 @@
           <mxGeometry x="277" y="220" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="2X8kcNeQpMqDYxCgBVjB-4" value="传感器模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="303.37" y="177" width="80.25" height="30" as="geometry" />
+          <mxGeometry x="303.37" y="187" width="80.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2X8kcNeQpMqDYxCgBVjB-5" value="上位机软件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="506.31" y="57.25" width="80.25" height="30" as="geometry" />
