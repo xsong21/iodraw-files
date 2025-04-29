@@ -33,6 +33,12 @@
         <mxCell id="7N89NFiKxSy9enap6QxP-8" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 16px;&quot;&gt;飞行控制系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="401" y="97" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="7N89NFiKxSy9enap6QxP-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="180" as="sourcePoint" />
+            <mxPoint x="440" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
