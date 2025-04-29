@@ -33,6 +33,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7N89NFiKxSy9enap6QxP-32" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7N89NFiKxSy9enap6QxP-6">
+          <mxGeometry x="-0.8482" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7N89NFiKxSy9enap6QxP-8" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 16px;&quot;&gt;飞行控制系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="399" y="97" width="120" height="30" as="geometry" />
         </mxCell>
