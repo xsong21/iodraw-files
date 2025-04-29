@@ -30,8 +30,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7N89NFiKxSy9enap6QxP-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="88" width="50" height="30" as="geometry" />
+        <mxCell id="7N89NFiKxSy9enap6QxP-8" value="飞控系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="88" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
