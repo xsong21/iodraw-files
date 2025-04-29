@@ -101,7 +101,7 @@
             <mxPoint x="590" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7N89NFiKxSy9enap6QxP-23" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 6px;&quot;&gt;串口通信&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7N89NFiKxSy9enap6QxP-23" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 6px;&quot;&gt;串口通信&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="539" y="215" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
