@@ -155,6 +155,9 @@
         <mxCell id="7N89NFiKxSy9enap6QxP-49" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="744" y="494.42" width="66" height="43.52" as="geometry" />
         </mxCell>
+        <mxCell id="7N89NFiKxSy9enap6QxP-50" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 6px;&quot;&gt;串口通信&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="549" y="223" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
