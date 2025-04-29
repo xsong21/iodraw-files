@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7N89NFiKxSy9enap6QxP-8" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 16px;&quot;&gt;飞行控制系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="411" y="97" width="120" height="30" as="geometry" />
+          <mxGeometry x="401" y="97" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
