@@ -95,7 +95,7 @@
         <mxCell id="7N89NFiKxSy9enap6QxP-21" value="图传主控&lt;br&gt;ESP32S3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="195" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7N89NFiKxSy9enap6QxP-22" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=4.8275862068965525;endSize=2.783908045977012;endWidth=8.816568047337277;startWidth=8.816568047337277;startSize=2.783908045977012;strokeColor=#808080;dashed=1;dashPattern=1 1;entryX=0.996;entryY=0.846;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.042;exitY=0.842;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7N89NFiKxSy9enap6QxP-23" target="7N89NFiKxSy9enap6QxP-23">
+        <mxCell id="7N89NFiKxSy9enap6QxP-22" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=4.8275862068965525;endSize=2.783908045977012;endWidth=8.816568047337277;startWidth=8.816568047337277;startSize=2.783908045977012;strokeColor=#808080;dashed=1;entryX=0.996;entryY=0.846;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.042;exitY=0.842;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=#666666;" edge="1" parent="1" source="7N89NFiKxSy9enap6QxP-23" target="7N89NFiKxSy9enap6QxP-23">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="540" y="240" as="sourcePoint" />
             <mxPoint x="590" y="240" as="targetPoint" />
