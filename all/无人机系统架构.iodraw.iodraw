@@ -115,7 +115,7 @@
             <mxPoint x="340" y="474.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7N89NFiKxSy9enap6QxP-41" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="7N89NFiKxSy9enap6QxP-41" value="OLED显示屏" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="540" width="89" height="35" as="geometry" />
         </mxCell>
       </root>
