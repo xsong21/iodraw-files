@@ -71,8 +71,8 @@
         <mxCell id="7N89NFiKxSy9enap6QxP-14" value="镜头模组&lt;div&gt;ov2604&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="750" y="200" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7N89NFiKxSy9enap6QxP-15" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="210" width="120" height="60" as="geometry" />
+        <mxCell id="7N89NFiKxSy9enap6QxP-15" value="ESP32S3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="210" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
