@@ -69,10 +69,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7N89NFiKxSy9enap6QxP-14" value="镜头模组&lt;div&gt;ov2604&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="750" y="200" width="65" height="65" as="geometry" />
+          <mxGeometry x="750" y="205" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="7N89NFiKxSy9enap6QxP-15" value="图传主控&lt;br&gt;ESP32S3" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="210" width="80" height="90" as="geometry" />
+          <mxGeometry x="610" y="195" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
