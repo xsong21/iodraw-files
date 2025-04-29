@@ -68,6 +68,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="7N89NFiKxSy9enap6QxP-14" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
