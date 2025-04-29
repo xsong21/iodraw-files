@@ -101,7 +101,7 @@
           <mxGeometry x="250" y="399" width="290" height="91" as="geometry" />
         </mxCell>
         <mxCell id="7N89NFiKxSy9enap6QxP-35" value="&lt;font color=&quot;#808080&quot; style=&quot;font-size: 16px;&quot;&gt;飞行控制系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="407" y="107" width="120" height="30" as="geometry" />
+          <mxGeometry x="255" y="400" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
