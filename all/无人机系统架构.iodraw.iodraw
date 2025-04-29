@@ -149,8 +149,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7N89NFiKxSy9enap6QxP-48" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;后端服务系统&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="747" y="540.4100000000001" width="60" height="30" as="geometry" />
+        <mxCell id="7N89NFiKxSy9enap6QxP-48" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;后端服务系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="746" y="540.41" width="63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7N89NFiKxSy9enap6QxP-49" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="744" y="493.42" width="66" height="43.52" as="geometry" />
