@@ -90,8 +90,8 @@
             <mxPoint x="680" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RlN5MS8XerCYmRO0eD3o-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="RlN5MS8XerCYmRO0eD3o-22" value="等待用户其他操作&lt;div&gt;（录制、拍照等）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="524" y="500" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
