@@ -82,7 +82,7 @@
           <mxGeometry x="440" y="291" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-20" value="无人机运行参数传输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="524.25" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
