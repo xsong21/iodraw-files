@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-3" value="打开视像头模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="220" width="120" height="50" as="geometry" />
+          <mxGeometry x="920" y="240" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-4" value="无线连接无人机网络信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="140" width="145" height="50" as="geometry" />
