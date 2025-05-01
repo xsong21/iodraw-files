@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-6" value="打开视像头模块视频流传输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="350" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="374" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-7" value="无人机网络状态&lt;div&gt;是否正常？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="200" width="162.5" height="60" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="680" y="208" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-15" value="用户是否打开&lt;div&gt;无人机摄像头&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="288" width="170" height="42" as="geometry" />
+          <mxGeometry x="500" y="288" width="170" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
