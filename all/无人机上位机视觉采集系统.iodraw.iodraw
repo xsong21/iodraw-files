@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-6" value="打开视像头模块视频流传输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="374" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="394" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-7" value="无人机网络状态&lt;div&gt;是否正常？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="200" width="162.5" height="60" as="geometry" />
@@ -51,8 +51,8 @@
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650.25" y="340" as="sourcePoint" />
-            <mxPoint x="650" y="360" as="targetPoint" />
+            <mxPoint x="584.85" y="340" as="sourcePoint" />
+            <mxPoint x="585" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-14" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
