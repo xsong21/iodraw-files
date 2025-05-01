@@ -17,7 +17,7 @@
           <mxGeometry x="524.25" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-4" value="无线连接无人机网络信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="512.5" y="140" width="145" height="50" as="geometry" />
+          <mxGeometry x="512.5" y="140" width="145" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RlN5MS8XerCYmRO0eD3o-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -26,7 +26,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-6" value="打开视像头模块视频流传输" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="525" y="389" width="120" height="50" as="geometry" />
+          <mxGeometry x="525" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RlN5MS8XerCYmRO0eD3o-7" value="无人机网络状态&lt;div&gt;是否正常？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="503" y="220" width="162.5" height="60" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="RlN5MS8XerCYmRO0eD3o-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RlN5MS8XerCYmRO0eD3o-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="460" as="sourcePoint" />
-            <mxPoint x="584" y="390" as="targetPoint" />
+            <mxPoint x="584" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
