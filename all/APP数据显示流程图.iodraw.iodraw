@@ -16,6 +16,9 @@
         <mxCell id="Xcn1cLKJ54_n2lDRIw8X-3" value="与硬件建立网络连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="523" y="140" width="123" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Xcn1cLKJ54_n2lDRIw8X-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
