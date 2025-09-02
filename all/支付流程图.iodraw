@@ -43,7 +43,7 @@
         <mxCell id="EenvI9mgrzXWmydcwgzw-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;返回错误码&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;通过orderNo&lt;br&gt;查询Jeepay支付网关&lt;br&gt;是否有支付信息？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EenvI9mgrzXWmydcwgzw-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;通过orderNo&lt;/font&gt;&lt;br&gt;查询Jeepay支付网关&lt;br&gt;是否有支付信息？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EenvI9mgrzXWmydcwgzw-15" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EenvI9mgrzXWmydcwgzw-13">
