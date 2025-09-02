@@ -37,8 +37,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-10" value="没有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="507.5" y="158" width="50" height="30" as="geometry" />
+        <mxCell id="EenvI9mgrzXWmydcwgzw-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;没有&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="512.5" y="158" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EenvI9mgrzXWmydcwgzw-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;返回错误码&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="80" height="30" as="geometry" />
@@ -109,8 +109,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-27" value="orderNo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="78" width="70" height="30" as="geometry" />
+        <mxCell id="EenvI9mgrzXWmydcwgzw-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;orderNo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="490" y="80" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
