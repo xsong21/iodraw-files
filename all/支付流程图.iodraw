@@ -13,18 +13,15 @@
             <mxPoint x="440" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-3" value="查询订单状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="140" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EenvI9mgrzXWmydcwgzw-3">
+        <mxCell id="EenvI9mgrzXWmydcwgzw-4" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="390" y="180" as="sourcePoint" />
+            <mxPoint x="440" y="170" as="sourcePoint" />
             <mxPoint x="440" y="190" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-6" value="查询订单状态&lt;br&gt;是否有订单信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="190" width="110" height="80" as="geometry" />
+        <mxCell id="EenvI9mgrzXWmydcwgzw-6" value="查询订单状态&lt;br&gt;是否有订单信息？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="190" width="135" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
