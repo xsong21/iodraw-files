@@ -85,7 +85,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-22" value="保存支付单，返回payData" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EenvI9mgrzXWmydcwgzw-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;保存支付单，返回payData&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="430" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
