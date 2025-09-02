@@ -23,8 +23,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-6" value="是否有订单信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="190" width="80" height="80" as="geometry" />
+        <mxCell id="EenvI9mgrzXWmydcwgzw-6" value="查询订单状态&lt;br&gt;是否有订单信息" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="190" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
