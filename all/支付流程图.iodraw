@@ -16,10 +16,10 @@
         <mxCell id="EenvI9mgrzXWmydcwgzw-6" value="查询订单状态&lt;br&gt;是否有订单信息？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="140" width="135" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="EenvI9mgrzXWmydcwgzw-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EenvI9mgrzXWmydcwgzw-6">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="390" y="230" as="sourcePoint" />
-            <mxPoint x="490" y="230" as="targetPoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
