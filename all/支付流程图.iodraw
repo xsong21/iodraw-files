@@ -109,8 +109,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="78" width="50" height="30" as="geometry" />
+        <mxCell id="EenvI9mgrzXWmydcwgzw-27" value="orderNo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="78" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
