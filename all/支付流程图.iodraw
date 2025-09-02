@@ -158,7 +158,7 @@
           <mxGeometry x="716.5" y="260" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EenvI9mgrzXWmydcwgzw-56" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;font color=&quot;#cc0000&quot;&gt;通过payNo支付流水号&lt;/font&gt;&lt;br&gt;jeepay支付网关创建支付单，获取payData&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="718.5" y="320" width="100" height="50" as="geometry" />
+          <mxGeometry x="712.75" y="320" width="111.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EenvI9mgrzXWmydcwgzw-57" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.508;exitY=1.044;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EenvI9mgrzXWmydcwgzw-55" target="EenvI9mgrzXWmydcwgzw-56">
           <mxGeometry width="100" relative="1" as="geometry">
