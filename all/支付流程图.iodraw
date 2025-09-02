@@ -154,8 +154,8 @@
         <mxCell id="EenvI9mgrzXWmydcwgzw-53" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;orderNo&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="817.5" y="80" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-54" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="728" y="270" width="80" height="80" as="geometry" />
+        <mxCell id="EenvI9mgrzXWmydcwgzw-55" value="刷新订单支付流水号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="708" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
