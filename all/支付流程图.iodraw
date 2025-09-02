@@ -85,8 +85,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-22" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="EenvI9mgrzXWmydcwgzw-22" value="保存支付单，返回payData" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="430" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
