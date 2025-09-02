@@ -46,11 +46,16 @@
         <mxCell id="EenvI9mgrzXWmydcwgzw-13" value="查询Jeepay支付网关&lt;br&gt;是否有支付信息？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-15" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="EenvI9mgrzXWmydcwgzw-15" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="EenvI9mgrzXWmydcwgzw-13">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="410" y="360" as="sourcePoint" />
-            <mxPoint x="510" y="360" as="targetPoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EenvI9mgrzXWmydcwgzw-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EenvI9mgrzXWmydcwgzw-15">
+          <mxGeometry x="-0.2656" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
