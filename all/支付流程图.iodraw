@@ -43,7 +43,7 @@
         <mxCell id="EenvI9mgrzXWmydcwgzw-11" value="返回错误码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="220" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EenvI9mgrzXWmydcwgzw-12" value="查询Jeepay支付信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
