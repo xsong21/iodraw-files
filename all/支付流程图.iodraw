@@ -72,7 +72,7 @@
             <mxPoint x="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-19" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="EenvI9mgrzXWmydcwgzw-19" value="创建支付单，返回payData" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
