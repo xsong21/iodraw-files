@@ -40,8 +40,8 @@
         <mxCell id="EenvI9mgrzXWmydcwgzw-10" value="没有" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="507.5" y="158" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EenvI9mgrzXWmydcwgzw-11" value="返回错误码" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="210" width="80" height="30" as="geometry" />
+        <mxCell id="EenvI9mgrzXWmydcwgzw-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;返回错误码&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EenvI9mgrzXWmydcwgzw-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;查询Jeepay支付网关&lt;br&gt;是否有支付信息？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="270" width="140" height="80" as="geometry" />
